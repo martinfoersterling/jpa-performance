@@ -3,7 +3,7 @@ package mafoe.jpaperformance.dto;
 import java.io.Serializable;
 
 /**
- * TODO Doku
+ * Simples DTO für eine Modellgruppe plus deren Marke.
  *
  * @author EMAFOER
  * @version $Id$

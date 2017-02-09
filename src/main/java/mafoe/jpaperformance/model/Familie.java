@@ -9,7 +9,8 @@ import javax.persistence.ManyToOne;
 import javax.validation.constraints.NotNull;
 
 /**
- * TODO Doku
+ * Eine Familie ist eine Art von Fahrzeugbestandteil wie z.B. Radio oder Motor. Dabei ist die Familie nicht ein
+ * bestimmtes Radio, sondern nur die Möglichkeit eines Radios.
  *
  * @author EMAFOER
  * @version $Id$
@@ -26,6 +27,7 @@ public class Familie extends Entitaet {
 
 	private String name;
 
+	/** Potentiell sehr große Beschreibung. Könnte vielleicht ein XML Dokument sein. */
 	@Lob
 	private String beschreibung;
 

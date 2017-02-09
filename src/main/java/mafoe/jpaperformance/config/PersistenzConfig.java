@@ -20,7 +20,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * TODO Doku
+ * Spring Configuration für die Persistenzschicht.
  *
  * @author EMAFOER
  * @version $Id$

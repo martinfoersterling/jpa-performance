@@ -3,13 +3,13 @@ package mafoe.jpaperformance.dto;
 import java.io.Serializable;
 
 /**
- * TODO Doku
+ * Simples DTO für eine Familie plus deren Modellgruppe plus deren Marke.
  *
  * @author EMAFOER
  * @version $Id$
  * @since 01.02.2017
  */
-public class MarkeModellgruppeFamilieDto implements Serializable{
+public class MarkeModellgruppeFamilieDto implements Serializable {
 
 	private String marke;
 	private String modellgruppe;

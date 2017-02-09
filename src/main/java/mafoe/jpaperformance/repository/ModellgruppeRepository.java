@@ -7,8 +7,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
 /**
- * TODO Doku
- *
  * @author EMAFOER
  * @version $Id$
  * @since 01.02.2017

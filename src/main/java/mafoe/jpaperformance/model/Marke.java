@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * TODO Doku
+ * Eine Fahrzeugmarke, z.B. Audi, Toyota oder Renault.
  *
  * @author EMAFOER
  * @version $Id$

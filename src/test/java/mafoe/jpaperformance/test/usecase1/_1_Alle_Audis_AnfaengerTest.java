@@ -40,6 +40,7 @@ public class _1_Alle_Audis_AnfaengerTest {
 
 		assertEquals(5, modellgruppen.size());
 
+		//Test-Driven development: Test ist grün, Story geschafft! :-p
 		Set<String> erwarteteModellgruppen = ImmutableSet.of("A1", "A2", "A3", "A4", "A5");
 		assertTrue(modellgruppen
 				.stream()

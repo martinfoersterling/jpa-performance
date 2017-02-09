@@ -1,6 +1,5 @@
 package mafoe.jpaperformance.model;
 
-
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -14,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * TODO Doku
+ * Eine Modellgruppe ist eine Abstraktion mehrer Fahrzeugmodelle, zB Seat Ibiza oder VW Golf.
  *
  * @author EMAFOER
  * @version $Id$

@@ -8,8 +8,6 @@ import org.springframework.data.repository.query.Param;
 import java.util.List;
 
 /**
- * TODO Doku
- *
  * @author EMAFOER
  * @version $Id$
  * @since 01.02.2017

@@ -39,7 +39,7 @@ public class ErzeugeDdl {
 	}
 
 	/**
-	 * Der volle Name der Packages, in dem die Entitäten liegen. Beispiel: "de.volkswagen.eplrs.model"
+	 * Der volle Name der Packages, in dem die Entitäten liegen.
 	 */
 	private String[] getModelPackageNames() {
 		return new String[] {

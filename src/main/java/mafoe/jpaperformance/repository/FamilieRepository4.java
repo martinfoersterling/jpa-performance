@@ -12,8 +12,6 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * TODO Doku
- *
  * @author EMAFOER
  * @version $Id$
  * @since 01.02.2017
