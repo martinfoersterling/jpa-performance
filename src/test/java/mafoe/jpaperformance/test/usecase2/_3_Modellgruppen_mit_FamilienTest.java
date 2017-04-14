@@ -21,7 +21,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Wir wollen für einige Modellgruppen die Familien laden und als DTO liefern.
  * <p>
- * Zweiter Ansatz: Nur ein SELECT, mit hoher FETCH SIZE.
+ * Dritter Ansatz: Nur ein SELECT, mit hoher FETCH SIZE.
  */
 @Transactional
 @RunWith(SpringJUnit4ClassRunner.class)
